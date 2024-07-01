@@ -1,0 +1,12 @@
+.products-Preview-container{
+    display: grid;
+    grid-template-columns: repeat(4 , 1fr);
+    column-gap: 15px;
+    row-gap: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.title{
+    text-align: center;
+}
